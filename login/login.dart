@@ -1,5 +1,7 @@
 void main() {
   loginFeature();
+  print("login feature completed");
+
 }
 
 void loginFeature() {
